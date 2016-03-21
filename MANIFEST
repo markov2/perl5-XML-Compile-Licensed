@@ -1,0 +1,10 @@
+ChangeLog
+MANIFEST
+Makefile.PL
+lib/XML/Compile/Licensed.pm
+lib/XML/Compile/SOAP/xsd/bea/README
+lib/XML/Compile/SOAP/xsd/bea/bea_wli_sb_context-fix.xsd
+lib/XML/Compile/SOAP/xsd/bea/bea_wli_sb_context.xsd
+lib/XML/Compile/SOAP/xsd/sharepoint/README
+lib/XML/Compile/SOAP/xsd/sharepoint/sharepoint-serial.xsd
+lib/XML/Compile/SOAP/xsd/sharepoint/sharepoint-soap.xsd
