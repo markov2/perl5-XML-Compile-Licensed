@@ -1,7 +1,11 @@
-use warnings;
-use strict;
+# This code is part of distribution XML-Compile-Licensed.  Meta-POD processed
+# with OODoc into POD and HTML manual-pages.  See README.md
+# Copyright Mark Overmeer.  Licensed under the same terms as Perl itself
 
 package XML::Compile::Licensed;
+
+use warnings;
+use strict;
 
 use File::Spec     ();
 use File::Basename qw/dirname/;
